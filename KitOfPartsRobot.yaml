@@ -265,4 +265,4 @@ Properties:
   Autonomous Command: !!robotbuilder.data.properties.TypeSelectionProperty {default: None,
     name: Autonomous Command, type: Command, validators: null, value: None}
 Base: Robot
-Name: Prototype Robot
+Name: KitOfPartsRobot

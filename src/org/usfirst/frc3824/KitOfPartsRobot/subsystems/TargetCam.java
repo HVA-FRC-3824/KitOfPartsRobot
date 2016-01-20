@@ -9,10 +9,10 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc3824.PrototypeRobot.subsystems;
+package org.usfirst.frc3824.KitOfPartsRobot.subsystems;
 
-import org.usfirst.frc3824.PrototypeRobot.RobotMap;
-import org.usfirst.frc3824.PrototypeRobot.commands.*;
+import org.usfirst.frc3824.KitOfPartsRobot.RobotMap;
+import org.usfirst.frc3824.KitOfPartsRobot.commands.*;
 
 import edu.wpi.first.wpilibj.SPI;
 import edu.wpi.first.wpilibj.command.Subsystem;
